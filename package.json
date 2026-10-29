@@ -1,0 +1,15 @@
+{
+  "name": "@0sfs/default-modpack",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The mods the 0SFS flight installs by default.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "exports": {
+    "./manifest": "./public/0sfs-mod.json",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "validate": "node scripts/validate-mod.mjs"
+  }
+}
