@@ -46,6 +46,8 @@ scripts/link-packs.mjs` in fly. `npm run dev`, `build` and `test` also run
 npm run validate
 ```
 
+Topics: `0sfs-mod` and `0sfs-modpack-mod`. [Modding guide](https://github.com/0SFS/docs/blob/main/modding.md) describes discovery and installation.
+
 ## Community
 
 - [Code of conduct](https://github.com/0SFS/.github/blob/main/CODE_OF_CONDUCT.md)
