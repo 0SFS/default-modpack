@@ -11,7 +11,6 @@ and this modpack is the list the flight installs by default:
 | [R22](https://github.com/0SFS/R22) | aircraft | rotating-prop |
 | [DJI-Mini2](https://github.com/0SFS/DJI-Mini2) | aircraft | DJI-Quadcopter, Quadcopter, multirotor, rotating-prop, camera-gimbal, DJI-FC7303, drone-camera |
 | [DJI-Air-2S](https://github.com/0SFS/DJI-Air-2S) | aircraft | DJI-Quadcopter, Quadcopter, multirotor, rotating-prop, camera-gimbal, DJI-FC3411, drone-camera |
-| [Starship](https://github.com/0SFS/Starship) | aircraft | |
 | [camera-preview](https://github.com/0SFS/camera-preview) | plugin | |
 
 A modpack is a mod of kind `modpack`: its `public/0sfs-mod.json` lists mods in
